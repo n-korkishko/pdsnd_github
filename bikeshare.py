@@ -183,6 +183,7 @@ def main():
         city, month, day = get_filters()
         df = load_data(city, month, day)
         time_stats(df)
+        question=input('\nPress any key to see the most popular station and trip\n')
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
