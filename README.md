@@ -31,6 +31,7 @@ bikeshare.py
 chicago.cvs
 new_york_city.csv
 washington.csv
+README.md
 
 ### Credits
 I was appreciated by the structure and content of "Programming for data science" nan-degree from Udacity. It really helped me to upgrade my knowledge and skills, and I'll definitely recommend it to everyone who wants to uplift their expertise in this area.
