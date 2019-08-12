@@ -28,9 +28,6 @@ This project porvides the following information:
 
 ### Files used
 bikeshare.py
-chicago.cvs
-new_york_city.csv
-washington.csv
 README.md
 
 ### Credits
